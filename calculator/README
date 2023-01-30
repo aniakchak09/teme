@@ -1,0 +1,15 @@
+task1
+initializez o constanta N in functie de care sa descriu dimensiunile vectorului cu operanzi si a celui cu operatori
+citesc cei doi vectori
+parcurg vecotrul cu operatori si in functie de operatia citita, execut operatia respectiva
+
+task2
+citesc cei doi vectori
+parcurg vectorul cu operatori si execut numai inmultirile si impartirile, punand valoarea rezultatului in al doilea dintre cei doi termeni implicati in operatie. schimb valoarea primului operand in 0. daca operatotul este primul din vector, ii atribui valoarea '+', in caz contrar, ii atribui valoarea operatorului de pe pozitia precedenta
+apoi mai parcurg vactorul cu operatori inca o data si execut adunarile si scaderile
+
+task3
+citesc cei doi vectori
+execut inmultirile si impartirile, schimband valoarea primului operand dintre cei doi implicati in operatie in 0. apoi mut operanzii nenuli si operatorii ce-i urmeaza in doi noi vectori 
+(e cam complicat, stiu)
+execut apoi operatia '#', procedand oarecum asemanator. pun rezultatul operatiei in al doilea termen, iar ,dupa ce termin de parcurs vectorul, mut termenii nenuli si operatorii ce-i urmeaza intr-un nou vector, in care voi avea numai adunari si impartiri

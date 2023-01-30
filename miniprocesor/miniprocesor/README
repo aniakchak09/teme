@@ -1,0 +1,38 @@
+TASK 1
+
+citesc instructiunea
+
+bitii numarului sunt numerotati de la dreapta la stanga, asa ca pentru a-l calcula pe N citesc ultimii 3 biti, ii transform in zecimal si adun 1
+
+am luat o variabila pentru puterea lui 2 deoarece compilatorul meu facea figuri cand foloseam math.h si n-am vrut sa-mi bat capul
+
+asemanator procedez si pentru a afla operatiile si dimensiunea
+
+
+TASK 2
+
+am calculat numarul de operanzi cu formula data
+
+iau fiecare operand citit si il impart in bucati mai mici, de dimensiunea indicata in instructiune
+
+fiecare bucata o transform in zecimal si obtin operandul folosit in calcul
+
+in functie de semnul operatiei, fac calculul necesar
+
+
+TASK 3
+
+am luat un index pentru operanzii cititi si un index pentru operanzii folositi in calcul
+
+citeam cati biti indica dimensiunea din operandul citit, obtinand astfel un operand pentru calcul
+
+creste indexul operanzilor folositi la calcul
+
+cand sunt cititi 16 biti, creste si indexul operanzilor cititi
+
+la final am efectuat calculul
+
+
+TASK 4
+
+am copiat codul de la task2 si am modificat partea de calcul a rezultatului intr-un mod asemanator cu task2 de la tema 1

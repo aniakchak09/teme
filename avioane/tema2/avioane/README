@@ -1,0 +1,15 @@
+task 1
+am impartit vectorul info in niste variabile si le am afisat
+
+task 2
+am desenat fiecare avion tinand cont de tipul si directia lui
+
+task 3
+am facut o functie de comparatie in care compar avioanele dupa aspectele rpecizate in problema, dupa care le sortez folosind qsort
+
+task 4
+am luat fiecare avion si am verificat daca se afla vreun obstacol in fata lui
+am numarat cate avioane s ar lovi de un obstacol si la final am scazut acest numar din numarul total de avioane
+
+task 5
+am luat fiecare moment de timp si fiecare avion, verificand daca se afla deasupra unui punct de coordonate. pentru a deplasa avioanele prin spatiu, la coordonatele lor initiale am adunat produsul dintre viteza si momentul de timp
